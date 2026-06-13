@@ -1,0 +1,6 @@
+{
+  "name": "Tela de Login com Mascote",
+  "description": "Uma tela de login responsiva com um mascote animado que acompanha o cursor e cobre os olhos ao digitar a senha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
